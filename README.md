@@ -1,7 +1,7 @@
 # NON-DC Bot - G-Earth
 Extension built to help users trap, dribble, and shoot ball in habbo Football. How to use install it and get it working:
 
-1. Download G-Earth. There is 64Bit and 32Bit, please use the correct one.
+1. Download G-Earth. There is 64Bit and 32Bit, please use the correct one according to your computers operating system
 2. Keep everything in this file (Geode.dll, Geode.Extension.Windows.dll, Recuperarell.dll, and websocket-sharp.dll)
 3. Open the G-Earth folder and double click G-Earth and connect.
 4. Once you have connected please double click the Nondcbotv2 that is in the NonDc Bot - Release folder
