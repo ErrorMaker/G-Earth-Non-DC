@@ -13,16 +13,19 @@ Extension built to help users trap, dribble, and shoot ball in habbo Football. H
 Hotkeys:
 
 1 - Shoot
+
 2 - Trap 
+
 3 - Dribble 
 
-G-Earth Download:
+# G-Earth Download:
+
 
 Windows 32 BIT: https://github.com/DevLooney/G-Earth-Non..._32bit.zip
 
 Windows 64 BIT: https://github.com/DevLooney/G-Earth-Non..._64bit.zip
 
-Extension Download:
+# Extension Download:
 
 Habbo.com - https://github.com/DevLooney/G-Earth-Non...elease.zip
 Habbo.com.br - TBA (to be announced)
