@@ -11,6 +11,7 @@ Extension built to help users trap, dribble, and shoot ball in habbo Football. H
 8. There you go, now the extension functions.
 
 Hotkeys:
+
 1 - Shoot
 2 - Trap 
 3 - Dribble 
