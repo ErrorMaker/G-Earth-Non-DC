@@ -23,14 +23,18 @@ If you need help using this extension please message me on discord Ahmed#8333
 
 # G-Earth Download:
 
-Windows 32 BIT: https://github.com/DevLooney/G-Earth-Non..._32bit.zip
+Windows 32 BIT: https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/G-Earth-0.2.2_windows_32bit.zip
 
-Windows 64 BIT: https://github.com/DevLooney/G-Earth-Non..._64bit.zip
+Windows 64 BIT: https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/G-Earth-0.2.2_windows_64bit.zip
 
 # Extension Download:
 
-Habbo.com - https://github.com/DevLooney/G-Earth-Non...elease.zip
+Habbo.com - https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/Habbo.com.-.Release.zip
+
 Habbo.com.br - TBA (to be announced)
+
 Habbo.es - TBA (to be announced)
+
 Habbo.nl - TBA (to be announced)
+
 Habbo.com.tr - TBA (to be announced)
