@@ -31,10 +31,10 @@ Windows 64 BIT: https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1
 
 Habbo.com - https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/Habbo.com.-.Release.zip
 
-Habbo.com.br - TBA (to be announced)
+Habbo.com.br - https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/Habbo.com.br.-.Release.zip
 
-Habbo.es - TBA (to be announced)
+Habbo.es - https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/Habbo.es.-.Release.zip
 
-Habbo.nl - TBA (to be announced)
+Habbo.nl - https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/Habbo.nl.-.Release.zip
 
-Habbo.com.tr - TBA (to be announced)
+Habbo.com.tr - https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/Habbo.com.tr.-.Release.zip
