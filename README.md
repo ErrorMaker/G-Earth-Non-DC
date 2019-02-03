@@ -21,6 +21,10 @@ F3 - Dribble
 
 If you need help using this extension please message me on discord Ahmed#8333
 
+# Important Note:
+
+If you open the extension in the room for some reason it might just keep closing. The best way is to open the extenion in hotel view and then enter the room where you will want to use this extension in. I don't know why G-Earth sometimes bugs the code but please just open the extension in hotel view and then enter the room.
+
 # G-Earth Download:
 
 Windows 32 BIT: https://github.com/DevLooney/G-Earth-Non-DC/releases/download/v1.0/G-Earth-0.2.2_windows_32bit.zip
